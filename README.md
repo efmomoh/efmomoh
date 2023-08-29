@@ -1,6 +1,6 @@
 <img align="center" src="https://th.bing.com/th/id/R.433bd94e755b2d616ad8109b03528f3e?rik=s5M%2fSO95XAHWcw&riu=http%3a%2f%2ftheenterpriseworld.com%2fwp-content%2fuploads%2f2022%2f11%2fProgramming-Featured.jpg&ehk=RJU%2bLr3u9X%2f%2fsDZLDa%2bWqpgQAbfzrCRuSWzPz%2bwE5dY%3d&risl=&pid=ImgRaw&r=0"/>
 <h1 align="center">Hello 👋, I'm ENSSAH FAYIA MOMOH</h1>
-<h3 align="center">A passionate, devotional, enthusiastic and itchy Front-End Developer from LIBERIA</h3>
+<h3 align="center">A passionate, devotional, enthusiastic, and itchy Front-End Developer from LIBERIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efmomoh&label=Profile%20views&color=0e75b6&style=flat" alt="efmomoh" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **efmomoh25@gmail.com**
 
-- ⚡ Fun fact **I think I am jovious and my hobbies are computer enthusiast (coding), music, and hangouts on weekends with family.**
+- ⚡ Fun fact **I think I am jovial and my hobbies are computer enthusiasts (coding), music, and hangouts on weekends with family and friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
